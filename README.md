@@ -1,7 +1,6 @@
 
 # 蓝奏云直链解析 API（Cloudflare Worker 版）
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/hanximeng/LanzouAPI/blob/main/LICENSE)
+ 
 [![Platform](https://img.shields.io/badge/platform-Cloudflare%20Workers-orange)](https://workers.cloudflare.com/)
 
 基于 Cloudflare Worker 的蓝奏云分享链接解析服务，可将任意蓝奏云分享链接转换为真实下载直链，支持有密码/无密码分享，并允许自定义下载文件名。
